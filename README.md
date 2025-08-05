@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microservicio ISO/IEC 25010
 
 ## Descripción
@@ -120,3 +121,6 @@ Para acceder a la consola H2:
 ## Licencia
 Este proyecto es desarrollado con fines académicos.
 
+=======
+# Proyecto-Primera-Fase
+>>>>>>> d3a2a6f7c9221e4006e29b0c2c172d115bc689c2
