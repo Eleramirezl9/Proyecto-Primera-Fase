@@ -54,7 +54,7 @@ microservicio-iso25010/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Eleramirezl9/Proyecto-Primera-Fase.git
 cd microservicio-iso25010
 ```
 
